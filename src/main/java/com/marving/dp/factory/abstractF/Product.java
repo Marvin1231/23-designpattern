@@ -1,4 +1,4 @@
-package com.marving.dp.factory;
+package com.marving.dp.factory.abstractF;
 
 public interface Product {
 	

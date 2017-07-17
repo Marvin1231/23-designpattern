@@ -1,4 +1,6 @@
-package com.marving.dp.factory;
+package com.marving.dp.factory.simple;
+
+import com.marving.dp.factory.abstractF.Product;
 
 public class ConcreteCreator implements Creator{
 

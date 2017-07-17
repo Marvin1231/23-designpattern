@@ -1,5 +1,3 @@
-package com.marving.dp.testing;
-
 import java.util.concurrent.Callable;
 
 import org.junit.Test;

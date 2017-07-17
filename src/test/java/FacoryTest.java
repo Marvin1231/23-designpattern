@@ -1,11 +1,9 @@
-package com.marving.dp.testing;
-
 import org.junit.Test;
 
-import com.marving.dp.factory.ConcreteCreator;
-import com.marving.dp.factory.ConcreteProduct;
-import com.marving.dp.factory.Creator;
-import com.marving.dp.factory.Product;
+import com.marving.dp.factory.simple.ConcreteCreator;
+import com.marving.dp.factory.simple.ConcreteProduct;
+import com.marving.dp.factory.simple.Creator;
+import com.marving.dp.factory.abstractF.Product;
 
 public class FacoryTest {
 

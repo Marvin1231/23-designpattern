@@ -1,5 +1,3 @@
-package com.marving.dp.testing;
-
 import org.junit.Test;
 
 import com.marving.dp.builder.Director;
