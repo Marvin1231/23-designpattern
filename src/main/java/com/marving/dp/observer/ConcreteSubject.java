@@ -3,6 +3,10 @@ package com.marving.dp.observer;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * Created by mercop on 2017/6/19.
+ */
 public class ConcreteSubject implements Subject{
 	
 	private List<Observer> observers = new ArrayList<Observer>();

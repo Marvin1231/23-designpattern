@@ -3,9 +3,9 @@ package com.marving.dp.observer;
 /**
  * Created by mercop on 2017/6/19.
  */
-public class ConcreteObserver implements Observer{
+public class ConcreteObserver2 implements Observer{
 	private String name;
-	public ConcreteObserver(String name){
+	public ConcreteObserver2(String name){
 		this.name= name;
 	}
 	@Override
